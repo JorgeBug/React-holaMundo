@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-holaMundo/static/css/main.02b4f60f.css",
+    "main.js": "/React-holaMundo/static/js/main.aeabab1f.js",
+    "index.html": "/React-holaMundo/index.html",
+    "main.02b4f60f.css.map": "/React-holaMundo/static/css/main.02b4f60f.css.map",
+    "main.aeabab1f.js.map": "/React-holaMundo/static/js/main.aeabab1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02b4f60f.css",
+    "static/js/main.aeabab1f.js"
+  ]
+}
